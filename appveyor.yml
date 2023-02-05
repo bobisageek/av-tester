@@ -1,5 +1,5 @@
 build_script:
-- ps: >-
+- cmd: >-
     script/build.bat
 test_script:
 - ps: >-
