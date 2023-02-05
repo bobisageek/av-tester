@@ -1,6 +1,6 @@
 build_script:
 - ps: >-
-    build.bat
+    script/build.bat
 test_script:
 - ps: >-
-    test.bat
+    script/test.bat
